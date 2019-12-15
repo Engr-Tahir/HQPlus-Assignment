@@ -1,0 +1,15 @@
+C:\Users\TaHiR MaJeeD\Downloads\HQPlus - Copy\HQPlus - Copy\Task2.Reporting\bin\Debug\task 2 - hotelrates.json
+C:\Users\TaHiR MaJeeD\Downloads\HQPlus - Copy\HQPlus - Copy\Task2.Reporting\bin\Debug\Task2.Reporting.exe.config
+C:\Users\TaHiR MaJeeD\Downloads\HQPlus - Copy\HQPlus - Copy\Task2.Reporting\bin\Debug\Task2.Reporting.exe
+C:\Users\TaHiR MaJeeD\Downloads\HQPlus - Copy\HQPlus - Copy\Task2.Reporting\bin\Debug\Task2.Reporting.pdb
+C:\Users\TaHiR MaJeeD\Downloads\HQPlus - Copy\HQPlus - Copy\Task2.Reporting\bin\Debug\CsvHelper.dll
+C:\Users\TaHiR MaJeeD\Downloads\HQPlus - Copy\HQPlus - Copy\Task2.Reporting\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TaHiR MaJeeD\Downloads\HQPlus - Copy\HQPlus - Copy\Task2.Reporting\bin\Debug\System.ValueTuple.dll
+C:\Users\TaHiR MaJeeD\Downloads\HQPlus - Copy\HQPlus - Copy\Task2.Reporting\bin\Debug\CsvHelper.xml
+C:\Users\TaHiR MaJeeD\Downloads\HQPlus - Copy\HQPlus - Copy\Task2.Reporting\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TaHiR MaJeeD\Downloads\HQPlus - Copy\HQPlus - Copy\Task2.Reporting\bin\Debug\System.ValueTuple.xml
+C:\Users\TaHiR MaJeeD\Downloads\HQPlus - Copy\HQPlus - Copy\Task2.Reporting\obj\Debug\Task2.Reporting.Properties.Resources.resources
+C:\Users\TaHiR MaJeeD\Downloads\HQPlus - Copy\HQPlus - Copy\Task2.Reporting\obj\Debug\Task2.Reporting.csproj.GenerateResource.cache
+C:\Users\TaHiR MaJeeD\Downloads\HQPlus - Copy\HQPlus - Copy\Task2.Reporting\obj\Debug\Task2.Reporting.csproj.CopyComplete
+C:\Users\TaHiR MaJeeD\Downloads\HQPlus - Copy\HQPlus - Copy\Task2.Reporting\obj\Debug\Task2.Reporting.exe
+C:\Users\TaHiR MaJeeD\Downloads\HQPlus - Copy\HQPlus - Copy\Task2.Reporting\obj\Debug\Task2.Reporting.pdb

@@ -1,0 +1,6 @@
+C:\Users\TaHiR MaJeeD\Downloads\HQPlus - Copy\HQPlus - Copy\Task1.WebExtraction\bin\Debug\Task1.WebExtraction.exe.config
+C:\Users\TaHiR MaJeeD\Downloads\HQPlus - Copy\HQPlus - Copy\Task1.WebExtraction\bin\Debug\Task1.WebExtraction.exe
+C:\Users\TaHiR MaJeeD\Downloads\HQPlus - Copy\HQPlus - Copy\Task1.WebExtraction\bin\Debug\Task1.WebExtraction.pdb
+C:\Users\TaHiR MaJeeD\Downloads\HQPlus - Copy\HQPlus - Copy\Task1.WebExtraction\obj\Debug\Task1.WebExtraction.csprojAssemblyReference.cache
+C:\Users\TaHiR MaJeeD\Downloads\HQPlus - Copy\HQPlus - Copy\Task1.WebExtraction\obj\Debug\Task1.WebExtraction.exe
+C:\Users\TaHiR MaJeeD\Downloads\HQPlus - Copy\HQPlus - Copy\Task1.WebExtraction\obj\Debug\Task1.WebExtraction.pdb

@@ -1,0 +1,105 @@
+ARRIVAL_DATE,DEPARTURE_DATE,PRICE,CURRENCY,RATENAME,ADULTS,BREAKFAST_INCLUDED
+15/03/2016 4:00:00 am,15/03/2016 4:00:00 am,116.09999999999999,EUR,Classic Zimmer - Frühbucher Rate,2,0
+15/03/2016 4:00:00 am,15/03/2016 4:00:00 am,129,EUR,Classic Zimmer - Beste Flexible Rate,2,0
+15/03/2016 4:00:00 am,15/03/2016 4:00:00 am,173,EUR,Classic Zimmer - Bed & Breakfast,2,1
+15/03/2016 4:00:00 am,15/03/2016 4:00:00 am,134.09999999999999,EUR,Superior Zimmer - Frühbucher Rate,2,0
+15/03/2016 4:00:00 am,15/03/2016 4:00:00 am,149,EUR,Superior Zimmer - Beste Flexible Rate,2,0
+15/03/2016 4:00:00 am,15/03/2016 4:00:00 am,193,EUR,Superior Zimmer - Bed & Breakfast,2,1
+15/03/2016 4:00:00 am,15/03/2016 4:00:00 am,152.09999999999999,EUR,Deluxe Zimmer - Frühbucher Rate,2,0
+15/03/2016 4:00:00 am,15/03/2016 4:00:00 am,169,EUR,Deluxe Zimmer - Beste Flexible Rate,2,0
+15/03/2016 4:00:00 am,15/03/2016 4:00:00 am,213,EUR,Deluxe Zimmer - Bed & Breakfast,2,1
+15/03/2016 4:00:00 am,15/03/2016 4:00:00 am,170.09999999999999,EUR,Junior Suite - Frühbucher Rate,2,0
+15/03/2016 4:00:00 am,15/03/2016 4:00:00 am,189,EUR,Junior Suite - Beste Flexible Rate,2,0
+15/03/2016 4:00:00 am,15/03/2016 4:00:00 am,233,EUR,Junior Suite - Bed & Breakfast,2,1
+15/03/2016 4:00:00 am,15/03/2016 4:00:00 am,197.09999999999999,EUR,Superior Suite - Frühbucher Rate,2,0
+15/03/2016 4:00:00 am,15/03/2016 4:00:00 am,219,EUR,Superior Suite - Beste Flexible Rate,2,0
+15/03/2016 4:00:00 am,15/03/2016 4:00:00 am,263,EUR,Superior Suite - Bed & Breakfast,2,1
+15/03/2016 4:00:00 am,15/03/2016 4:00:00 am,215.09999999999999,EUR,Deluxe Business Suite - Frühbucher Rate,2,0
+15/03/2016 4:00:00 am,15/03/2016 4:00:00 am,239,EUR,Deluxe Business Suite - Beste Flexible Rate,2,0
+15/03/2016 4:00:00 am,15/03/2016 4:00:00 am,283,EUR,Deluxe Business Suite - Bed & Breakfast,2,1
+15/03/2016 4:00:00 am,15/03/2016 4:00:00 am,509,EUR,Balkon Suite - Beste Flexible Rate,2,0
+15/03/2016 4:00:00 am,15/03/2016 4:00:00 am,553,EUR,Balkon Suite - Bed & Breakfast,2,1
+15/03/2016 4:00:00 am,15/03/2016 4:00:00 am,639,EUR,Kudamm Suite - Beste Flexible Rate,2,0
+15/03/2016 4:00:00 am,15/03/2016 4:00:00 am,683,EUR,Kudamm Suite - Bed & Breakfast,2,1
+15/03/2016 4:00:00 am,15/03/2016 4:00:00 am,1359,EUR,Berlin Suite - Beste Flexible Rate,2,0
+15/03/2016 4:00:00 am,15/03/2016 4:00:00 am,1403,EUR,Berlin Suite - Bed & Breakfast,2,1
+15/03/2016 4:00:00 am,15/03/2016 4:00:00 am,2359,EUR,Präsidentensuite - Beste Flexible Rate,2,0
+15/03/2016 4:00:00 am,15/03/2016 4:00:00 am,2403,EUR,Präsidentensuite - Bed & Breakfast,2,1
+16/03/2016 4:00:00 am,16/03/2016 4:00:00 am,134.09999999999999,EUR,Classic Room - Early Booker Rate,2,0
+16/03/2016 4:00:00 am,16/03/2016 4:00:00 am,149,EUR,Classic Room - Best Flexible Rate,2,0
+16/03/2016 4:00:00 am,16/03/2016 4:00:00 am,193,EUR,Classic Room - Bed & Breakfast,2,1
+16/03/2016 4:00:00 am,16/03/2016 4:00:00 am,152.09999999999999,EUR,Superior Room - Early Booker Rate,2,0
+16/03/2016 4:00:00 am,16/03/2016 4:00:00 am,169,EUR,Superior Room - Best Flexible Rate,2,0
+16/03/2016 4:00:00 am,16/03/2016 4:00:00 am,213,EUR,Superior Room - Bed & Breakfast,2,1
+16/03/2016 4:00:00 am,16/03/2016 4:00:00 am,170.09999999999999,EUR,Deluxe Room - Early Booker Rate,2,0
+16/03/2016 4:00:00 am,16/03/2016 4:00:00 am,189,EUR,Deluxe Room - Best Flexible Rate,2,0
+16/03/2016 4:00:00 am,16/03/2016 4:00:00 am,233,EUR,Deluxe Room - Bed & Breakfast,2,1
+16/03/2016 4:00:00 am,16/03/2016 4:00:00 am,188.09999999999999,EUR,Junior Suite - Early Booker Rate,2,0
+16/03/2016 4:00:00 am,16/03/2016 4:00:00 am,209,EUR,Junior Suite - Best Flexible Rate,2,0
+16/03/2016 4:00:00 am,16/03/2016 4:00:00 am,253,EUR,Junior Suite - Bed & Breakfast,2,1
+16/03/2016 4:00:00 am,16/03/2016 4:00:00 am,215.09999999999999,EUR,Superior Suite - Early Booker Rate,2,0
+16/03/2016 4:00:00 am,16/03/2016 4:00:00 am,239,EUR,Superior Suite - Best Flexible Rate,2,0
+16/03/2016 4:00:00 am,16/03/2016 4:00:00 am,283,EUR,Superior Suite - Bed & Breakfast,2,1
+16/03/2016 4:00:00 am,16/03/2016 4:00:00 am,233.09999999999999,EUR,Deluxe Business Suite - Early Booker Rate,2,0
+16/03/2016 4:00:00 am,16/03/2016 4:00:00 am,259,EUR,Deluxe Business Suite - Best Flexible Rate,2,0
+16/03/2016 4:00:00 am,16/03/2016 4:00:00 am,303,EUR,Deluxe Business Suite - Bed & Breakfast,2,1
+16/03/2016 4:00:00 am,16/03/2016 4:00:00 am,549,EUR,Balcony Suite - Best Flexible Rate,2,0
+16/03/2016 4:00:00 am,16/03/2016 4:00:00 am,593,EUR,Balcony Suite - Bed & Breakfast,2,1
+16/03/2016 4:00:00 am,16/03/2016 4:00:00 am,639,EUR,Kudamm Suite - Best Flexible Rate,2,0
+16/03/2016 4:00:00 am,16/03/2016 4:00:00 am,683,EUR,Kudamm Suite - Bed & Breakfast,2,1
+16/03/2016 4:00:00 am,16/03/2016 4:00:00 am,1359,EUR,Berlin Suite - Best Flexible Rate,2,0
+16/03/2016 4:00:00 am,16/03/2016 4:00:00 am,1403,EUR,Berlin Suite - Bed & Breakfast,2,1
+16/03/2016 4:00:00 am,16/03/2016 4:00:00 am,2359,EUR,Presidential Suite - Best Flexible Rate,2,0
+16/03/2016 4:00:00 am,16/03/2016 4:00:00 am,2403,EUR,Presidential Suite - Bed & Breakfast,2,1
+17/03/2016 4:00:00 am,17/03/2016 4:00:00 am,134.09999999999999,EUR,Classic Room - Early Booker Rate,2,0
+17/03/2016 4:00:00 am,17/03/2016 4:00:00 am,149,EUR,Classic Room - Best Flexible Rate,2,0
+17/03/2016 4:00:00 am,17/03/2016 4:00:00 am,193,EUR,Classic Room - Bed & Breakfast,2,1
+17/03/2016 4:00:00 am,17/03/2016 4:00:00 am,152.09999999999999,EUR,Superior Room - Early Booker Rate,2,0
+17/03/2016 4:00:00 am,17/03/2016 4:00:00 am,169,EUR,Superior Room - Best Flexible Rate,2,0
+17/03/2016 4:00:00 am,17/03/2016 4:00:00 am,213,EUR,Superior Room - Bed & Breakfast,2,1
+17/03/2016 4:00:00 am,17/03/2016 4:00:00 am,170.09999999999999,EUR,Deluxe Room - Early Booker Rate,2,0
+17/03/2016 4:00:00 am,17/03/2016 4:00:00 am,189,EUR,Deluxe Room - Best Flexible Rate,2,0
+17/03/2016 4:00:00 am,17/03/2016 4:00:00 am,233,EUR,Deluxe Room - Bed & Breakfast,2,1
+17/03/2016 4:00:00 am,17/03/2016 4:00:00 am,188.09999999999999,EUR,Junior Suite - Early Booker Rate,2,0
+17/03/2016 4:00:00 am,17/03/2016 4:00:00 am,209,EUR,Junior Suite - Best Flexible Rate,2,0
+17/03/2016 4:00:00 am,17/03/2016 4:00:00 am,253,EUR,Junior Suite - Bed & Breakfast,2,1
+17/03/2016 4:00:00 am,17/03/2016 4:00:00 am,215.09999999999999,EUR,Superior Suite - Early Booker Rate,2,0
+17/03/2016 4:00:00 am,17/03/2016 4:00:00 am,239,EUR,Superior Suite - Best Flexible Rate,2,0
+17/03/2016 4:00:00 am,17/03/2016 4:00:00 am,283,EUR,Superior Suite - Bed & Breakfast,2,1
+17/03/2016 4:00:00 am,17/03/2016 4:00:00 am,233.09999999999999,EUR,Deluxe Business Suite - Early Booker Rate,2,0
+17/03/2016 4:00:00 am,17/03/2016 4:00:00 am,259,EUR,Deluxe Business Suite - Best Flexible Rate,2,0
+17/03/2016 4:00:00 am,17/03/2016 4:00:00 am,303,EUR,Deluxe Business Suite - Bed & Breakfast,2,1
+17/03/2016 4:00:00 am,17/03/2016 4:00:00 am,549,EUR,Balcony Suite - Best Flexible Rate,2,0
+17/03/2016 4:00:00 am,17/03/2016 4:00:00 am,593,EUR,Balcony Suite - Bed & Breakfast,2,1
+17/03/2016 4:00:00 am,17/03/2016 4:00:00 am,639,EUR,Kudamm Suite - Best Flexible Rate,2,0
+17/03/2016 4:00:00 am,17/03/2016 4:00:00 am,683,EUR,Kudamm Suite - Bed & Breakfast,2,1
+17/03/2016 4:00:00 am,17/03/2016 4:00:00 am,1359,EUR,Berlin Suite - Best Flexible Rate,2,0
+17/03/2016 4:00:00 am,17/03/2016 4:00:00 am,1403,EUR,Berlin Suite - Bed & Breakfast,2,1
+17/03/2016 4:00:00 am,17/03/2016 4:00:00 am,2359,EUR,Presidential Suite - Best Flexible Rate,2,0
+17/03/2016 4:00:00 am,17/03/2016 4:00:00 am,2403,EUR,Presidential Suite - Bed & Breakfast,2,1
+18/03/2016 4:00:00 am,18/03/2016 4:00:00 am,134.09999999999999,EUR,Classic Room - Early Booker Rate,2,0
+18/03/2016 4:00:00 am,18/03/2016 4:00:00 am,149,EUR,Classic Room - Best Flexible Rate,2,0
+18/03/2016 4:00:00 am,18/03/2016 4:00:00 am,193,EUR,Classic Room - Bed & Breakfast,2,1
+18/03/2016 4:00:00 am,18/03/2016 4:00:00 am,152.09999999999999,EUR,Superior Room - Early Booker Rate,2,0
+18/03/2016 4:00:00 am,18/03/2016 4:00:00 am,169,EUR,Superior Room - Best Flexible Rate,2,0
+18/03/2016 4:00:00 am,18/03/2016 4:00:00 am,213,EUR,Superior Room - Bed & Breakfast,2,1
+18/03/2016 4:00:00 am,18/03/2016 4:00:00 am,170.09999999999999,EUR,Deluxe Room - Early Booker Rate,2,0
+18/03/2016 4:00:00 am,18/03/2016 4:00:00 am,189,EUR,Deluxe Room - Best Flexible Rate,2,0
+18/03/2016 4:00:00 am,18/03/2016 4:00:00 am,233,EUR,Deluxe Room - Bed & Breakfast,2,1
+18/03/2016 4:00:00 am,18/03/2016 4:00:00 am,188.09999999999999,EUR,Junior Suite - Early Booker Rate,2,0
+18/03/2016 4:00:00 am,18/03/2016 4:00:00 am,209,EUR,Junior Suite - Best Flexible Rate,2,0
+18/03/2016 4:00:00 am,18/03/2016 4:00:00 am,253,EUR,Junior Suite - Bed & Breakfast,2,1
+18/03/2016 4:00:00 am,18/03/2016 4:00:00 am,215.09999999999999,EUR,Superior Suite - Early Booker Rate,2,0
+18/03/2016 4:00:00 am,18/03/2016 4:00:00 am,239,EUR,Superior Suite - Best Flexible Rate,2,0
+18/03/2016 4:00:00 am,18/03/2016 4:00:00 am,283,EUR,Superior Suite - Bed & Breakfast,2,1
+18/03/2016 4:00:00 am,18/03/2016 4:00:00 am,233.09999999999999,EUR,Deluxe Business Suite - Early Booker Rate,2,0
+18/03/2016 4:00:00 am,18/03/2016 4:00:00 am,259,EUR,Deluxe Business Suite - Best Flexible Rate,2,0
+18/03/2016 4:00:00 am,18/03/2016 4:00:00 am,303,EUR,Deluxe Business Suite - Bed & Breakfast,2,1
+18/03/2016 4:00:00 am,18/03/2016 4:00:00 am,549,EUR,Balcony Suite - Best Flexible Rate,2,0
+18/03/2016 4:00:00 am,18/03/2016 4:00:00 am,593,EUR,Balcony Suite - Bed & Breakfast,2,1
+18/03/2016 4:00:00 am,18/03/2016 4:00:00 am,639,EUR,Kudamm Suite - Best Flexible Rate,2,0
+18/03/2016 4:00:00 am,18/03/2016 4:00:00 am,683,EUR,Kudamm Suite - Bed & Breakfast,2,1
+18/03/2016 4:00:00 am,18/03/2016 4:00:00 am,1359,EUR,Berlin Suite - Best Flexible Rate,2,0
+18/03/2016 4:00:00 am,18/03/2016 4:00:00 am,1403,EUR,Berlin Suite - Bed & Breakfast,2,1
+18/03/2016 4:00:00 am,18/03/2016 4:00:00 am,2359,EUR,Presidential Suite - Best Flexible Rate,2,0
+18/03/2016 4:00:00 am,18/03/2016 4:00:00 am,2403,EUR,Presidential Suite - Bed & Breakfast,2,1
